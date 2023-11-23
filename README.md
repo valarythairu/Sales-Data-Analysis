@@ -1,7 +1,7 @@
 # Sales-Data-Analysis
-
+- For this project one required to have setup Mysql, its resources and Power BI desktop on their Local Computer.
 ## Analysing Sales Data Using Power BI
-Problem Statement: Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights. 
+Problem Statement: The sales director has decided to invest in a data analysis project and he would like to build a Power BI dashboard that can give him real-time sales insights. 
 
 ### The AIMS Grid
 ![AIMS grid](https://github.com/valarythairu/Sales-Data-Analysis/assets/132980723/54002897-b88c-40f9-b156-f9b9de77a350)
